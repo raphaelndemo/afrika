@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Afrika</string>
+    <string name="art1">If you want to know the end, look at the beginning KARIBU!</string>
+    <string name="art2">If the rhythm of the drum beat changes, the dance step must adapt tap the image to proceed</string>
+    <string name="art3">However far the stream flows, it never forget the source</string>
+    <string name="art1_content_description">Afrika art</string>
+    <string name="art2_content_description">Afrika dance woman</string>
+    <string name="art3_content_description">Afrika community art</string>
+</resources>
